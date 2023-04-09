@@ -1,0 +1,47 @@
+body {
+    font-family: sans-serif;
+}
+header{
+background-color:blue;
+border:solid 4px blue;
+border-radius: 10px ;
+}
+h1{color:blueviolet;
+border:solid 2px navajowhite;
+border-radius: 10px;
+text-align: center;
+}
+footer{
+    background-color: brown;
+    border: solid 10px white;
+    border-radius: 20px;
+}
+td
+{background: white;
+}
+nav{
+    margin: 5px;
+    color:rgb(255, 215, 215);
+}
+nav a{
+    border:solid 4px bisque;
+    border-radius: 3px;
+}
+main img{
+    color: cadetblue;
+}
+.v{
+    color: blue;
+}
+.r{
+    color: blue;
+}
+.t{
+    border: solid 2px blue;
+}
+.p{
+    color:blue;
+}
+.u{
+    border: solid 5px blue;
+}
